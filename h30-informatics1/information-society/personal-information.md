@@ -3,7 +3,7 @@ type: "core"
 children: ["anonymized-information"]
 ---
 
-# 個人情報の保護
+# 個人情報の保護と活用
 
 ## 個人情報
 
