@@ -1,6 +1,6 @@
 ---
 type: "core"
-children: ["anonymized-information"]
+children: ["anonymized-information", "personal-information-on-sns"]
 ---
 
 # 個人情報の保護と活用
