@@ -13,6 +13,7 @@
   - [生成 AI と著作権](./h30-informatics1/information-society/generative-ai-and-copyright.md)
 - [情報セキュリティ](./h30-informatics1/information-society/information-security.md)
   - [インターネット上の詐欺](./h30-informatics1/information-society/cyber-fraud.md)
+  - [強力なパスワード](./h30-informatics1/information-society/strong-password.md)
 - [情報社会の光と影](./h30-informatics1/information-society/light-and-shade.md)
   - [街中で活躍するロボット](./h30-informatics1/information-society/robot-in-city.md)
   - [スマホアプリによるデジタルディバイド](./h30-informatics1/information-society/smartphone-digital-devide.md)
