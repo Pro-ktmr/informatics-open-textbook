@@ -28,7 +28,8 @@
 - [情報セキュリティ](./h30-informatics1/information-society/information-security.md)
   - [インターネット上の詐欺](./h30-informatics1/information-society/cyber-fraud.md)
   - [強力なパスワード](./h30-informatics1/information-society/strong-password.md)
-- 情報モラル
+- [情報モラル](./h30-informatics1/information-society/information-moral.md)
+  - [To Share or Not to Share](./h30-informatics1/information-society/to-share-or-not-to-share.md)
 
 #### （ウ）
 
