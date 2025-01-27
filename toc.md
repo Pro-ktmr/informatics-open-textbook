@@ -22,6 +22,7 @@
 
 - [知的財産の保護と活用](./h30-informatics1/information-society/intellectual-property.md)
   - [生成 AI と著作権](./h30-informatics1/information-society/generative-ai-and-copyright.md)
+  - [生成 AI と著作権（ロールプレイ）](./h30-informatics1/information-society/generative-ai-and-copyright-role-play.md)
 - [個人情報の保護と活用](./h30-informatics1/information-society/personal-information.md)
   - [匿名加工情報の活用](./h30-informatics1/information-society/anonymized-information.md)
   - [SNS における個人情報の扱い](./h30-informatics1/information-society/personal-information-on-sns.md)

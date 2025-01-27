@@ -1,6 +1,6 @@
 ---
 type: "core"
-children: ["generative-ai-and-copyright"]
+children: ["generative-ai-and-copyright", "generative-ai-and-copyright-role-play"]
 ---
 
 # 知的財産の保護と活用
