@@ -1,6 +1,6 @@
 ---
 type: "core"
-children: []
+children: ["brainstorming"]
 ---
 
 # 問題解決

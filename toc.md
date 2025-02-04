@@ -13,6 +13,7 @@
 - [情報とメディアの活用](./h30-informatics1/information-society/information-and-media.md)
   - [適切なメディアの選択](./h30-informatics1/information-society/media-selection.md)
 - [問題解決](./h30-informatics1/information-society/problem-solving.md)
+  - [ブレインストーミング](./h30-informatics1/information-society/brainstorming.md)
 
 #### （イ）
 
