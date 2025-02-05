@@ -12,10 +12,10 @@
 
 > 目的や状況に応じて，情報と情報技術を適切かつ効果的に活用して問題を発見・解決する方法について考えること。
 
-- [情報とメディア](./h30-informatics1/1-information-society/information-and-media.md)
-  - [適切なメディアの選択](./h30-informatics1/1-information-society/media-selection.md)
-- [問題解決](./h30-informatics1/1-information-society/problem-solving.md)
-  - [ブレインストーミング](./h30-informatics1/1-information-society/brainstorming.md)
+- [情報とメディア](./h30-informatics1/1-information-society-a/information-and-media.md)
+  - [適切なメディアの選択](./h30-informatics1/1-information-society-a/media-selection.md)
+- [問題解決](./h30-informatics1/1-information-society-a/problem-solving.md)
+  - [ブレインストーミング](./h30-informatics1/1-information-society-a/brainstorming.md)
 
 #### （イ）
 
@@ -25,17 +25,17 @@
 
 > （内容の取扱い）生徒が情報社会の問題を主体的に発見し明確化し，解決策を考える活動を取り入れるものとする。
 
-- [知的財産の保護と活用](./h30-informatics1/1-information-society/intellectual-property.md)
-  - [生成 AI と著作権](./h30-informatics1/1-information-society/generative-ai-and-copyright.md)
-  - [生成 AI と著作権（ロールプレイ）](./h30-informatics1/1-information-society/generative-ai-and-copyright-role-play.md)
-- [個人情報の保護と活用](./h30-informatics1/1-information-society/personal-information.md)
-  - [匿名加工情報の活用](./h30-informatics1/1-information-society/anonymized-information.md)
-  - [SNS における個人情報の扱い](./h30-informatics1/1-information-society/personal-information-on-sns.md)
-- [情報セキュリティ](./h30-informatics1/1-information-society/information-security.md)
-  - [インターネット上の詐欺](./h30-informatics1/1-information-society/cyber-fraud.md)
-  - [強力なパスワード](./h30-informatics1/1-information-society/strong-password.md)
-- [情報モラル](./h30-informatics1/1-information-society/information-moral.md)
-  - [To Share or Not to Share](./h30-informatics1/1-information-society/to-share-or-not-to-share.md)
+- [知的財産の保護と活用](./h30-informatics1/1-information-society-b/intellectual-property.md)
+  - [生成 AI と著作権](./h30-informatics1/1-information-society-b/generative-ai-and-copyright.md)
+  - [生成 AI と著作権（ロールプレイ）](./h30-informatics1/1-information-society-b/generative-ai-and-copyright-role-play.md)
+- [個人情報の保護と活用](./h30-informatics1/1-information-society-b/personal-information.md)
+  - [匿名加工情報の活用](./h30-informatics1/1-information-society-b/anonymized-information.md)
+  - [SNS における個人情報の扱い](./h30-informatics1/1-information-society-b/personal-information-on-sns.md)
+- [情報セキュリティ](./h30-informatics1/1-information-society-b/information-security.md)
+  - [インターネット上の詐欺](./h30-informatics1/1-information-society-b/cyber-fraud.md)
+  - [強力なパスワード](./h30-informatics1/1-information-society-b/strong-password.md)
+- [情報モラル](./h30-informatics1/1-information-society-b/information-moral.md)
+  - [To Share or Not to Share](./h30-informatics1/1-information-society-b/to-share-or-not-to-share.md)
 
 #### （ウ）
 
@@ -45,10 +45,10 @@
 
 > （内容の取扱い）生徒が情報社会の問題を主体的に発見し明確化し，解決策を考える活動を取り入れるものとする。
 
-- [情報社会の光と影](./h30-informatics1/1-information-society/light-and-shade.md)
-  - [街中で活躍するロボット](./h30-informatics1/1-information-society/robot-in-city.md)
-  - [スマホアプリによるデジタルディバイド](./h30-informatics1/1-information-society/smartphone-digital-devide.md)
-  - [Society 5.0 と SDGs](./h30-informatics1/1-information-society/society50-and-sdgs.md)
+- [情報社会の光と影](./h30-informatics1/1-information-society-c/light-and-shade.md)
+  - [街中で活躍するロボット](./h30-informatics1/1-information-society-c/robot-in-city.md)
+  - [スマホアプリによるデジタルディバイド](./h30-informatics1/1-information-society-c/smartphone-digital-devide.md)
+  - [Society 5.0 と SDGs](./h30-informatics1/1-information-society-c/society50-and-sdgs.md)
 
 ## コミュニケーションと情報デザイン
 
