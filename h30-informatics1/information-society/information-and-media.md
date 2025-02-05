@@ -3,7 +3,7 @@ type: "core"
 children: ["media-selection"]
 ---
 
-# 情報とメディアの活用
+# 情報とメディア
 
 ## 情報の特性
 
