@@ -57,6 +57,7 @@
 > メディアとコミュニケーション手段の関係を科学的に捉え，それらを目的や状況に応じて適切に選択すること。
 
 - [コミュニケーション](./2-information-design-a/communication.md)
+- [情報のデジタル化](./2-information-design-a/digitize.md)
 - 文字のデジタル表現
 - 音のデジタル表現
 - 画像や動画のデジタル表現
