@@ -58,7 +58,8 @@
 
 - [コミュニケーション](./2-information-design-a/communication.md)
 - [情報のデジタル化](./2-information-design-a/digitize.md)
-- 文字のデジタル表現
+- [文字のデジタル表現](./2-information-design-a/digitize-characters.md)
+  - [文字コードを解読せよ！](./2-information-design-a/bebras-charset.md)
 - 音のデジタル表現
 - 画像や動画のデジタル表現
 - デジタルデータの圧縮
