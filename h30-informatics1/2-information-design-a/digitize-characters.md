@@ -1,6 +1,6 @@
 ---
 type: "core"
-children: ["bebras-charset"]
+children: ["text-garbling", "bebras-charset"]
 ---
 
 # 文字のデジタル表現
