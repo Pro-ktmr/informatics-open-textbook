@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: ["to-share-or-not-to-share"]
+type: "knowledge"
+recommendation: ["to-share-or-not-to-share"]
 ---
 
 # 情報モラル

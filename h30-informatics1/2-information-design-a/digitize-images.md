@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: []
+type: "knowledge"
+recommendation: []
 ---
 
 # 画像や動画のデジタル表現

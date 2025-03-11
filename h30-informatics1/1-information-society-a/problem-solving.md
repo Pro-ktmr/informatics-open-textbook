@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: ["brainstorming"]
+type: "knowledge"
+recommendation: ["brainstorming"]
 ---
 
 # 問題解決

@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: ["robot-in-city", "smartphone-digital-device", "society50-and-sdgs"]
+type: "knowledge"
+recommendation: ["robot-in-city", "smartphone-digital-device", "society50-and-sdgs"]
 ---
 
 # 情報化の光と影

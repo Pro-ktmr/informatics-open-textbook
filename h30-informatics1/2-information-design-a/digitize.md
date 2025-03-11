@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: []
+type: "knowledge"
+recommendation: []
 ---
 
 # 情報のデジタル化

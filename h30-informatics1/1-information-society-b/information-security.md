@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: ["cyber-fraud", "strong-password"]
+type: "knowledge"
+recommendation: ["cyber-fraud", "strong-password"]
 ---
 
 # 情報セキュリティ

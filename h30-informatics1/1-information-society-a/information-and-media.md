@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: ["media-selection"]
+type: "knowledge"
+recommendation: ["media-selection"]
 ---
 
 # 情報とメディア

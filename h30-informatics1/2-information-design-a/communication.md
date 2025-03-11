@@ -1,6 +1,6 @@
 ---
-type: "core"
-children: []
+type: "knowledge"
+recommendation: []
 ---
 
 # コミュニケーション
