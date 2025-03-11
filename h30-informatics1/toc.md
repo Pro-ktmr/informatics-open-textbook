@@ -63,7 +63,7 @@
   - [文字コードを解読せよ！](./2-information-design-a/bebras-charset.md)
 - [音のデジタル表現](./2-information-design-a/digitize-sounds.md)
 - [画像や動画のデジタル表現](./2-information-design-a/digitize-images.md)
-- デジタルデータの圧縮
+- [デジタルデータの圧縮](./2-information-design-a/compress.md)
 
 ### （イ）
 
