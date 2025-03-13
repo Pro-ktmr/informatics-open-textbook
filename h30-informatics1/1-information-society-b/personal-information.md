@@ -5,6 +5,26 @@ recommendation: ["anonymized-information", "personal-information-on-sns"]
 
 # 個人情報の保護と活用
 
+```:dialog:left:student1:exclamation
+文化祭の受付システムの開発をパソコン部で引き受けることになったんだ！
+```
+
+```:dialog:right:student2:surprise
+え・・・使いたくないな・・・
+```
+
+```:dialog:left:student1:panic
+どうして？
+```
+
+```:dialog:right:student2:surprise
+だって名前とか聞くんでしょ？ 漏洩したら怖いもん。
+```
+
+```:dialog:left:teacher2:normal
+確かに個人情報を誰かに預けるのは不安があるけど、便利な側面もあるよ。個人情報の保護や活用について考えてみよう！
+```
+
 ## 個人情報
 
 氏名、生年月日など、生存する特定の個人を識別できる情報を**個人情報**といいます。

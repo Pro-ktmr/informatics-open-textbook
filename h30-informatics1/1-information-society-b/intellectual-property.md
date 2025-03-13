@@ -5,6 +5,22 @@ recommendation: ["generative-ai-and-copyright", "generative-ai-and-copyright-rol
 
 # 知的財産の保護と活用
 
+```:dialog:left:student2:exclamation
+新しい MV サイコ～ この画角とかめっちゃ好き。スクショして SNS で紹介しよ！
+```
+
+```:dialog:right:student1:question
+それって著作権の侵害にならないの？
+```
+
+```:dialog:left:student2:surprise
+え、でもみんなやってるよ！？
+```
+
+```:dialog:right:teacher1:normal
+情報はモノと比べて複製しやすいから、誰かの作品を無断で複製する場面も増えているね。みんなの作品がどんな権利で守られているのか、法律を確認してみよう！
+```
+
 ## 知的財産権
 
 人間の知的創造活動によって生み出された成果（**知的財産**）について、それを保護するために**知的財産権**という権利が認められています。

@@ -5,6 +5,22 @@ recommendation: ["robot-in-city", "smartphone-digital-device", "society50-and-sd
 
 # 情報化の光と影
 
+```:dialog:right:teacher1:normal
+これからもっと社会の情報化が進んでいくと考えられているよ。そんな未来は楽しみかな？
+```
+
+```:dialog:left:student1:exclamation
+楽しみ！ 世の中がどんどん便利になっているよね。
+```
+
+```:dialog:left:student2:question
+ちょっと怖いかな・・・ ロボットに仕事を奪われるんでしょ？
+```
+
+```:dialog:right:teacher1:normal
+情報化は光と影の両方の側面を持っているね。情報化とどう向き合っていけば良いか考えてみよう！
+```
+
 ## 情報化の光
 
 コンピュータの小型化やネットワーク技術の進歩により、インターネットに接続されていて遠隔操作したり大量のデータを収集したりできるスマート家電などが増加しています。このようにあらゆるモノをインターネットに接続する技術は **IoT（Internet of Things）**と呼ばれています。
