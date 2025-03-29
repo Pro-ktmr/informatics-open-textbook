@@ -6,7 +6,7 @@ recommendation: ["media-selection"]
 
 # 情報とメディア
 
-```:dialog:left:student1:question
+```:dialog:left:student2:question
 「情報」って言葉は普段から当たり前に使われているけど、そもそもどういう意味なんだろう？
 ```
 
@@ -14,7 +14,7 @@ recommendation: ["media-selection"]
 例えば、朝家を出る前に天気予報を見て「午後から雨が振る可能性が高い」とわかったら、どうする？
 ```
 
-```:dialog:left:student1:exclamation
+```:dialog:left:student2:exclamation
 傘を持って出る！
 ```
 
@@ -25,6 +25,8 @@ recommendation: ["media-selection"]
 ## 情報の特性
 
 **情報**とは、人にとって意味や価値のあるデータやメッセージのことです。人々は情報を意思決定の判断材料にしています。例えば「午後から雨が振る可能性が高い」という情報が手に入れれば、私たちは「傘を持って出かけることにしよう」と決めることができます。
+
+![天気予報という情報をもとに行動を決定しています](./illustrations/weather-forecast.png)
 
 情報はモノと比べて次のような特性を持つため、扱いに注意が必要なことがあります。
 
