@@ -24,4 +24,4 @@ Society 5.0 と SDGs の関連について考えてみましょう。
 1. SDGs の 17 の目標のうち 1 つを取り上げ、現在課題となっていることを列挙しましょう。
 2. 列挙した課題の中で、Society 5.0 が実現された社会では解決されていそうなものはありますか？ それはどのように解決されていますか？
 
-![SDGs](./images/sdg_poster_ja_2021.jpg)
+![SDGs](/h30-informatics1/1-information-society-c/images/sdg_poster_ja_2021.jpg)
