@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "個人情報の定義や、個人情報がどう保護・活用されているかについて学びます。"
 recommendation: ["anonymized-information", "personal-information-on-sns"]
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "サイバー犯罪の種類や、情報セキュリティの対策について学びます。"
 recommendation: ["cyber-fraud", "strong-password"]
 ---
 

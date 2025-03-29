@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "デジタルデータの圧縮の種類や方法について学びます。"
 recommendation: []
 ---
 

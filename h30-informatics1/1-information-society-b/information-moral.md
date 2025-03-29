@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "情報社会で適正な活動を行うためのもととなる考え方や態度である情報モラルについて学びます。"
 recommendation: ["to-share-or-not-to-share"]
 ---
 

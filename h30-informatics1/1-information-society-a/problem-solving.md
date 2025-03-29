@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "問題解決の定義や、問題解決の流れについて学びます。"
 recommendation: ["brainstorming"]
 ---
 

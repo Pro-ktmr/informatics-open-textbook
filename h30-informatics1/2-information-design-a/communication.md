@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "コミュニケーションの形態や手段について学びます。"
 recommendation: []
 ---
 

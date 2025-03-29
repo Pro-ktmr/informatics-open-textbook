@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "標本化・量子化・符号化のプロセスを通じた音のデジタル化について学びます。"
 recommendation: []
 ---
 

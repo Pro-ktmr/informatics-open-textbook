@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "情報デザインの定義や手法について学びます。"
 recommendation: []
 ---
 

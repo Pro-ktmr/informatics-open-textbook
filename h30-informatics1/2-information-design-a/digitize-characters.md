@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "文字をデジタルで表現するための方法として文字コードについて学びます。"
 recommendation: ["text-garbling", "bebras-charset"]
 ---
 

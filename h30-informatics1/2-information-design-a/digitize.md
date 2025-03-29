@@ -1,5 +1,6 @@
 ---
 type: "knowledge"
+abstract: "アナログとデジタルの違いや特徴について学びます。"
 recommendation: []
 ---
 

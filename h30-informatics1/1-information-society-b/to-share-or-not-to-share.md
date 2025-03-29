@@ -1,5 +1,6 @@
 ---
 type: "activity"
+abstract: "SNS のシミュレータ上で演習を行い、自身の SNS の利用傾向を確かめましょう。"
 ---
 
 # To Share or Not to Share

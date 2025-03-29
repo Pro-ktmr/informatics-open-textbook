@@ -1,5 +1,6 @@
 ---
 type: "activity"
+abstract: "SDGs に関連した課題が Society 5.0 の実現によって解決できるか考えてみましょう。"
 ---
 
 # Society 5.0 と SDGs
