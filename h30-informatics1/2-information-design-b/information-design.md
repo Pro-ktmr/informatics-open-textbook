@@ -6,7 +6,6 @@ recommendation: []
 
 # 情報デザイン
 
-
 ```:dialog:left:student1:question
 昨日の下校中、海外から来た人が道に迷っているところに居合わせたんだ。日本語の案内板が読めなかったみたい。
 ```
@@ -18,7 +17,6 @@ recommendation: []
 ```:dialog:right:teacher1:normal
 写真も良いけど、もっと良い方法があるかもしれないよ。どうすれば情報がわかりやすく伝わるか考えてみよう！
 ```
-
 
 ## 情報デザインとは
 

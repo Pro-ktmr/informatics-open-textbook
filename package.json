@@ -1,0 +1,14 @@
+{
+  "name": "informatics-open-textbook",
+  "version": "1.0.0",
+  "description": "オープンテキスト『未来を描く 情報Ⅰ』",
+  "scripts": {
+    "format:check": "prettier --check **/*.{yaml,md}",
+    "format:fix": "prettier --write **/*.{yaml,md}"
+  },
+  "author": "",
+  "license": "CC BY-SA 4.0",
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
