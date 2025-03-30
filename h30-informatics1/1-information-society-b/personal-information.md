@@ -34,6 +34,8 @@ recommendation: ["anonymized-information", "personal-information-on-sns"]
 
 ※ マイナンバーやパスポート番号、DNA や指紋などの生体情報は、個人識別符号といい、単体で個人を識別できる個人情報です。
 
+![個人に関する様々な情報が個人情報に該当します](/h30-informatics1/1-information-society-b/images/personal-information.png)
+
 ## 個人情報保護法
 
 情報には「形がない」「消えない」「簡単に複製できる」「容易に伝播する」といった特徴があるため、当事者が気づかないうちに個人情報が漏洩し、拡散されてしまう恐れがあります。そのため、情報社会において個人情報をどう保護していくかは重要な問題です。
