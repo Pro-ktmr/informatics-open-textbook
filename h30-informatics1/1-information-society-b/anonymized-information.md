@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "匿名加工情報を適切に活用していくための態度やルール作りについて考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 匿名加工情報の活用

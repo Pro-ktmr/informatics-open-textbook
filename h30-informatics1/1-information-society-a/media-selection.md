@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "さまざまなシーンでどのメディアを選択すれば良いか、メディアの特性を踏まえて考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 適切なメディアの選択

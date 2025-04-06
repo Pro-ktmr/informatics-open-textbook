@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "SNS のシミュレータ上で演習を行い、自身の SNS の利用傾向を確かめましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # To Share or Not to Share

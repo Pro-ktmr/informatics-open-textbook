@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "情報デザインの定義や手法について学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 情報デザイン

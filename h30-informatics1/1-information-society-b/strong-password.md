@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "パスワードの強さを決める要因は何なのか考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 強力なパスワード

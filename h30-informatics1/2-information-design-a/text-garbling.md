@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "文字コードがわかるシステムで演習を行い、文字化けの原因を考えましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 文字化けの体験

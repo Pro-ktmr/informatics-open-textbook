@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "生成 AI の出現以降、著作権をどう扱えば良いかロールプレイを通じて考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 生成 AI と著作権（ロールプレイ）

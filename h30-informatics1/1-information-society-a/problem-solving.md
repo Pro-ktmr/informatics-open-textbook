@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "問題解決の定義や、問題解決の流れについて学びます。"
 recommendation: ["brainstorming"]
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 問題解決

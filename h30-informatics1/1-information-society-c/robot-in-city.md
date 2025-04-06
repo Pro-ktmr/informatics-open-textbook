@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "街中で見かけるロボットを取り上げて、さまざまな側面について考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 街中で活躍するロボット

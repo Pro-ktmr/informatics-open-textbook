@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "さまざまな文字コードの表現に触れてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 文字コードを解読せよ！

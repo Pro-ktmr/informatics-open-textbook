@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "文字をデジタルで表現するための方法として文字コードについて学びます。"
 recommendation: ["text-garbling", "bebras-charset"]
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 文字のデジタル表現

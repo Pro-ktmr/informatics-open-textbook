@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "コミュニケーションの形態や手段について学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # コミュニケーション

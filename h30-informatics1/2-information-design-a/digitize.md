@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "アナログとデジタルの違いや特徴について学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 情報のデジタル化

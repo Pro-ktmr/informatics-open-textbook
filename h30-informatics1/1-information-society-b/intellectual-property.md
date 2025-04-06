@@ -3,6 +3,8 @@ type: "knowledge"
 abstract: "著作権などによって知的財産がどのように保護・活用されているかについて学びます。"
 recommendation:
   ["generative-ai-and-copyright", "generative-ai-and-copyright-role-play"]
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 知的財産の保護と活用

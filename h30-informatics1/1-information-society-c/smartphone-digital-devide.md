@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "スマホアプリが普及したことによって生じた便利な側面と不利益について考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # スマホアプリによるデジタルディバイド

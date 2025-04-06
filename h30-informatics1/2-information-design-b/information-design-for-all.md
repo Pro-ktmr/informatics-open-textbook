@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "ユニバーサルデザインなど、すべての人に伝わりやすい情報デザインについて学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # すべての人に伝わりやすい情報デザイン

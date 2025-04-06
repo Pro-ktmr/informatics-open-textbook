@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "デジタルデータの圧縮の種類や方法について学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # デジタルデータの圧縮

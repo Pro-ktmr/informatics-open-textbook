@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "インターネット上の詐欺を体験してみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # インターネット上の詐欺

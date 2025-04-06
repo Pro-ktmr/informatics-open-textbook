@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "設計・制作・実行・評価・改善という情報デザインの進め方について学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 情報デザインの進め方

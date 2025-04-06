@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "SDGs に関連した課題が Society 5.0 の実現によって解決できるか考えてみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # Society 5.0 と SDGs

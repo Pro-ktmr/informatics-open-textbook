@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "個人情報の定義や、個人情報がどう保護・活用されているかについて学びます。"
 recommendation: ["anonymized-information", "personal-information-on-sns"]
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 個人情報の保護と活用

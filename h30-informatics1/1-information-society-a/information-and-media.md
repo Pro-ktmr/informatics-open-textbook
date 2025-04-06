@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "情報の定義、モノと比べて情報が持つ特性、情報を伝える媒体としてのメディアについて学びます。"
 recommendation: ["media-selection"]
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 情報とメディア

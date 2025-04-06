@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "問題解決のためのアイデアを生み出す手法であるブレインストーミングに取り組んでみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # ブレインストーミング

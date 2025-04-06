@@ -1,6 +1,8 @@
 ---
 type: "activity"
 abstract: "自身に関する情報を SNS にどこまで掲載しても良いと思うか整理してみましょう。"
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # SNS における個人情報の扱い

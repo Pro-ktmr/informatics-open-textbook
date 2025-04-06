@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "サイバー犯罪の種類や、情報セキュリティの対策について学びます。"
 recommendation: ["cyber-fraud", "strong-password"]
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 情報セキュリティ

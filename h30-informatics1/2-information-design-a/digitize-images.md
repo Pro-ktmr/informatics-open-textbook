@@ -2,6 +2,8 @@
 type: "knowledge"
 abstract: "画像や動画をデジタルに表現する方法や、標本化・量子化・符号化のプロセスを通じた画像のデジタル化について学びます。"
 recommendation: []
+authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
+editors: []
 ---
 
 # 画像や動画のデジタル表現
