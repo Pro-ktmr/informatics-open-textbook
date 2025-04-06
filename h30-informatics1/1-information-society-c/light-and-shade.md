@@ -2,7 +2,7 @@
 type: "knowledge"
 abstract: "情報化の光と影の両面を踏まえ、望ましい情報社会の構築について学びます。"
 recommendation:
-  ["robot-in-city", "smartphone-digital-device", "society50-and-sdgs"]
+  ["robot-in-city", "smartphone-digital-devide", "society50-and-sdgs"]
 ---
 
 # 情報化の光と影
