@@ -12,6 +12,7 @@
 
 - [情報とメディア](./1-information-society-a/information-and-media.md)
   - [適切なメディアの選択](./1-information-society-a/media-selection.md)
+  - [自己紹介シートの作成](./1-information-society-a/self-introduction.md)
 - [問題解決](./1-information-society-a/problem-solving.md)
   - [ブレインストーミング](./1-information-society-a/brainstorming.md)
 
