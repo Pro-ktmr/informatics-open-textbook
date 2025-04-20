@@ -59,6 +59,7 @@
 
 - [コミュニケーション](./2-information-design-a/communication.md)
 - [情報のデジタル化](./2-information-design-a/digitize.md)
+  - [BinDec Game](./2-information-design-a/bindec-game.md)
 - [文字のデジタル表現](./2-information-design-a/digitize-characters.md)
   - [文字化けの体験](./2-information-design-a/text-garbling.md)
   - [文字コードを解読せよ！](./2-information-design-a/bebras-charset.md)
