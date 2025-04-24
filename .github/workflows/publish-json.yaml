@@ -1,0 +1,33 @@
+name: "Publish JSON"
+
+on:
+  push:
+    branches:
+      - "main"
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  PublishJson:
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "Checkout"
+        uses: "actions/checkout@v4"
+        with: { fetch-depth: 0 }
+      - name: "Use Node.js 20.12.2"
+        uses: "actions/setup-node@v4"
+        with:
+          node-version: "20.12.2"
+      - name: "Install npm dependencies"
+        run: "npm ci"
+      - name: "Generate JSON"
+        run: "npm run generate-json"
+      - name: Deploy to apis branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./apis
+          publish_branch: apis
+          force_orphan: true
