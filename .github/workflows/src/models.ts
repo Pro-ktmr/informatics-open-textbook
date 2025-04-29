@@ -35,6 +35,7 @@ export type PageContent = {
   abstract: string;
   content: string;
   unit: UnitInfo;
+  recommendations: string[];
 };
 
 export type PageContents = PageContent[];

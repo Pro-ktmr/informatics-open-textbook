@@ -84,14 +84,14 @@ export const loadPageContents = async (
           ""
         )}`;
         const markdownFileContent = fs.readFileSync(markdownFilePath, "utf-8");
-        const { pageContent, recommendations } = parsePageMarkdown(
+        const pageContent = parsePageMarkdown(
           subjectInfo,
           unitInfo,
           key,
           markdownFileContent
         );
         pageContents.push(pageContent);
-        recommendationTreeChildren[key] = recommendations;
+        recommendationTreeChildren[key] = pageContent.recommendations;
       }
     }
   }
@@ -128,7 +128,7 @@ const parsePageMarkdown = (
   unitInfo: UnitInfo,
   key: string,
   markdownContent: string
-): { pageContent: PageContent; recommendations: string[] } => {
+): PageContent => {
   const parsed = matter(markdownContent);
 
   const title = getPageTitleFromMarkdownContent(parsed.content);
@@ -149,14 +149,12 @@ const parsePageMarkdown = (
   );
 
   return {
-    pageContent: {
-      key,
-      title,
-      type,
-      abstract,
-      content,
-      unit: unitInfo,
-    },
+    key,
+    title,
+    type,
+    abstract,
+    content,
+    unit: unitInfo,
     recommendations,
   };
 };
