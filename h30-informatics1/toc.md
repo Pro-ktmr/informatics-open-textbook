@@ -15,6 +15,7 @@
   - [自己紹介シートの作成](./1-information-society-a/self-introduction.md)
 - [問題解決](./1-information-society-a/problem-solving.md)
   - [ブレインストーミング](./1-information-society-a/brainstorming.md)
+- [一問一答](./1-information-society-a/q-and-a.md)
 
 ### （イ）
 
@@ -35,6 +36,7 @@
   - [強力なパスワード](./1-information-society-b/strong-password.md)
 - [情報モラル](./1-information-society-b/information-moral.md)
   - [To Share or Not to Share](./1-information-society-b/to-share-or-not-to-share.md)
+- [一問一答](./1-information-society-b/q-and-a.md)
 
 ### （ウ）
 
@@ -48,6 +50,7 @@
   - [街中で活躍するロボット](./1-information-society-c/robot-in-city.md)
   - [スマホアプリによるデジタルディバイド](./1-information-society-c/smartphone-digital-devide.md)
   - [Society 5.0 と SDGs](./1-information-society-c/society50-and-sdgs.md)
+- [一問一答](./1-information-society-c/q-and-a.md)
 
 ## （2）コミュニケーションと情報デザイン
 
@@ -93,6 +96,8 @@
 > コンピュータや外部装置の仕組みや特徴，コンピュータでの情報の内部表現と計算に関する限界について理解すること。
 
 > コンピュータで扱われる情報の特徴とコンピュータの能力との関係について考察すること。
+
+- [論理回路による演算の仕組み](./3-programming-a/logic-circuit.md)
 
 ### （イ）
 
