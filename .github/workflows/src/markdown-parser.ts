@@ -138,6 +138,8 @@ const parsePageMarkdown = (
         return PageType.Knowledge;
       case "activity":
         return PageType.Activity;
+      case "q-and-a":
+        return PageType.QandA;
       default:
         return PageType.Other;
     }

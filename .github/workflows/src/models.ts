@@ -19,9 +19,10 @@ export type UnitInfo = {
 };
 
 export const PageType = {
-  Knowledge: 0,
-  Activity: 1,
-  Other: 2,
+  Knowledge: "knowledge",
+  Activity: "activity",
+  QandA: "q-and-a",
+  Other: "",
 } as const;
 export type PageType = (typeof PageType)[keyof typeof PageType];
 export const isPageType = (value: any): value is PageType => {
