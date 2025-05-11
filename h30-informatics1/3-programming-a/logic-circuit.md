@@ -1,7 +1,7 @@
 ---
 type: "knowledge"
 abstract: "AND 回路・OR 回路・NOT 回路と、それを用いた半加算回路について学びます。"
-recommendation: []
+recommendation: ["simcirjs"]
 authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
 editors: []
 ---
