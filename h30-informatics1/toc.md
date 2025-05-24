@@ -64,10 +64,13 @@
 - [情報のデジタル化](./2-information-design-a/digitize.md)
   - [BinDec Game](./2-information-design-a/bindec-game.md)
 - [文字のデジタル表現](./2-information-design-a/digitize-characters.md)
+  - [文字のデジタル化 体験ツール](./2-information-design-a/experience-digitize-characters.md)
   - [文字化けの体験](./2-information-design-a/text-garbling.md)
   - [文字コードを解読せよ！](./2-information-design-a/bebras-charset.md)
 - [音のデジタル表現](./2-information-design-a/digitize-sounds.md)
+  - [音のデジタル化 体験ツール](./2-information-design-a/experience-digitize-sounds.md)
 - [画像や動画のデジタル表現](./2-information-design-a/digitize-images.md)
+  - [画像のデジタル化 体験ツール](./2-information-design-a/experience-digitize-images.md)
 - [デジタルデータの圧縮](./2-information-design-a/compress.md)
 
 ### （イ）

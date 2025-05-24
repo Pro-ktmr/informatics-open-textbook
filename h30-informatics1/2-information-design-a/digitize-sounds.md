@@ -1,7 +1,7 @@
 ---
 type: "knowledge"
 abstract: "標本化・量子化・符号化のプロセスを通じた音のデジタル化について学びます。"
-recommendation: []
+recommendation: ["experience-digitize-sounds"]
 authors: ["北村祐稀<u961432b@ecs.osaka-u.ac.jp>"]
 editors: []
 ---
